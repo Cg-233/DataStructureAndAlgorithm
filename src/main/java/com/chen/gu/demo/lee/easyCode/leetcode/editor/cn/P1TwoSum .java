@@ -1,5 +1,4 @@
-package com.chen.gu.demo.lee.easyCode.leetcode.editor.cn;
-//给定一个整数数组 nums 和一个目标值 target，请你在该数组中找出和为目标值的那 两个 整数，并返回他们的数组下标。
+//给定一个整数数组 nums 和一个目标值 target，请你在该数组中找出和为目标值的那 两个 整数，并返回他们的数组下标。 
 //
 // 你可以假设每种输入只会对应一个答案。但是，数组中同一个元素不能使用两遍。 
 //
@@ -14,13 +13,18 @@ package com.chen.gu.demo.lee.easyCode.leetcode.editor.cn;
 // 
 // Related Topics 数组 哈希表
 
+package com.chen.gu.demo.lee.easyCode.leetcode.editor.cn;
+
 import java.util.HashMap;
-import java.util.Objects;
 
-import sun.security.util.Length;
-
-//leetcode submit region begin(Prohibit modification and deletion)
-class Solution1 {
+//java:两数之和
+class P1TwoSum{
+    public static void main(String[] args){
+        Solution solution = new P1TwoSum().new Solution();
+    }
+    
+    //leetcode submit region begin(Prohibit modification and deletion)
+class Solution {
     public int[] twoSum(int[] nums, int target) {
 
         /**
@@ -50,3 +54,6 @@ class Solution1 {
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
+
+
+}

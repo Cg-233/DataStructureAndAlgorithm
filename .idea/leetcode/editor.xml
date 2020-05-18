@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/src/main/java/com/chen/gu/demo/lee/easyCode/leetcode/editor/cn/P13RomanToInteger .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/chen/gu/demo/lee/easyCode/leetcode/editor/cn/P13RomanToInteger .java" />
+              <option name="questionId" value="13" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/chen/gu/demo/lee/easyCode/leetcode/editor/cn/P1TwoSum .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/chen/gu/demo/lee/easyCode/leetcode/editor/cn/P1TwoSum .java" />
+              <option name="questionId" value="1" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/chen/gu/demo/lee/easyCode/leetcode/editor/cn/P7ReverseInteger .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/chen/gu/demo/lee/easyCode/leetcode/editor/cn/P7ReverseInteger .java" />
+              <option name="questionId" value="7" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/chen/gu/demo/lee/easyCode/leetcode/editor/cn/P9PalindromeNumber .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/chen/gu/demo/lee/easyCode/leetcode/editor/cn/P9PalindromeNumber .java" />
+              <option name="questionId" value="9" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/chen/gu/demo/lee/easyCode/leetcode/editor/cn/[9]回文数.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/main/java/com/chen/gu/demo/lee/easyCode/leetcode/editor/cn/[9]回文数.java" />
+              <option name="questionId" value="9" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
