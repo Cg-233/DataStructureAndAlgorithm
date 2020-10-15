@@ -18,9 +18,9 @@ package com.chen.gu.demo.lee.easyCode.leetcode.editor.cn;
 import java.util.HashMap;
 
 //java:两数之和
-class P1TwoSum{
+public class P1_TwoSum {
     public static void main(String[] args){
-        Solution solution = new P1TwoSum().new Solution();
+        Solution solution = new P1_TwoSum().new Solution();
     }
     
     //leetcode submit region begin(Prohibit modification and deletion)

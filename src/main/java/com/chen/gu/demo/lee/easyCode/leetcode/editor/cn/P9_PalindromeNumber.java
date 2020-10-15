@@ -27,12 +27,10 @@
 
 package com.chen.gu.demo.lee.easyCode.leetcode.editor.cn;
 
-import sun.security.util.Length;
-
 //java:回文数
-class P9PalindromeNumber{
+class P9_PalindromeNumber {
     public static void main(String[] args){
-        Solution solution = new P9PalindromeNumber().new Solution();
+        Solution solution = new P9_PalindromeNumber().new Solution();
     }
 
     //leetcode submit region begin(Prohibit modification and deletion)

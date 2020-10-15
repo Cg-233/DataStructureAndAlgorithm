@@ -14,9 +14,9 @@ package com.chen.gu.demo.lee.easyCode.leetcode.editor.cn;
 import com.chen.gu.demo.lee.easyCode.leetcode.editor.cn.pojo.ListNode;
 
 //java:反转链表
-public class P206ReverseLinkedList {
+public class P206_ReverseLinkedList {
     public static void main(String[] args) {
-        Solution solution = new P206ReverseLinkedList().new Solution();
+        Solution solution = new P206_ReverseLinkedList().new Solution();
 
         ListNode node = new ListNode(1);
         node.next = new ListNode(2);

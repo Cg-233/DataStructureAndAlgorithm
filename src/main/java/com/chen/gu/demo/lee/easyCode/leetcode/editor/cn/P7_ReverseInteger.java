@@ -25,9 +25,9 @@
 
 package com.chen.gu.demo.lee.easyCode.leetcode.editor.cn;
 //java:整数反转
-class P7ReverseInteger{
+class P7_ReverseInteger {
     public static void main(String[] args){
-        Solution solution = new P7ReverseInteger().new Solution();
+        Solution solution = new P7_ReverseInteger().new Solution();
     }
     
     //leetcode submit region begin(Prohibit modification and deletion)

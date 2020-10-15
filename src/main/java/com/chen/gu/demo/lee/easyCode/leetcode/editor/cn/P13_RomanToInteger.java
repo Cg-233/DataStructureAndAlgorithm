@@ -55,9 +55,9 @@
 package com.chen.gu.demo.lee.easyCode.leetcode.editor.cn;
 
 //java:罗马数字转整数
-public class P13RomanToInteger {
+public class P13_RomanToInteger {
     public static void main(String[] args) {
-        Solution solution = new P13RomanToInteger().new Solution();
+        Solution solution = new P13_RomanToInteger().new Solution();
     }
 
     //leetcode submit region begin(Prohibit modification and deletion)
